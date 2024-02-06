@@ -44,3 +44,5 @@
                             </div>
                         )
                     })
+
+// In similiar way Type Annotation is recommonded in other higher order functions like "forEach", "filter" , "reduce"
